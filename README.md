@@ -17,6 +17,9 @@ Each folder contains a standalone project with its own dataset, notebook/script,
 * **Libraries:** Pandas, NumPy, Scikit-Learn
 * **Visualization:** Plotly, Matplotlib
 * **Web Framework:** Streamlit 🎈
+* ## 📊 Data Source
+The dataset used in this project is the **YouTube Trending Video Dataset** (US Region), originally hosted on **Kaggle**. It includes video titles, channel names, publish times, tags, views, likes, and comment counts.
+https://www.kaggle.com/
 
 ## ⚙️ How to Run Locally
 1. Clone the repository:
